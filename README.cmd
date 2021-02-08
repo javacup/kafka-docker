@@ -1,4 +1,4 @@
-docker kafka example 
+docker kafka example - with Sapa
 
 step 1: run zookeeper
 
